@@ -1,0 +1,21 @@
+
+<resources>
+    <string name="app_name">ThongTinCaNhan</string>
+    <string name="tittle">Thông Tin cá Nhân</string>
+    <string name="name">Họ tên:</string>
+    <string name="editTen">Tên phải >= 3 ký tự</string>
+    <string name="cmnd">CMND:</string>
+    <string name="editCMND">Nhập đúng 9 chữ số</string>
+    <string name="bangcap">Bằng cấp</string>
+    <string name="radio1">Trung cấp</string>
+    <string name="radio2">Cao đẳng</string>
+    <string name="radio3">Đại học</string>
+    <string name="like">Sở thích</string>
+    <string name="docbao">Đọc báo</string>
+    <string name="docsach">Đọc sách</string>
+    <string name="doccode">Đọc code</string>
+    <string name="info">Thông tin bổ sung</string>
+    <string name="editBosung">Nhập thông tin bổ sung - Có thể để trống</string>
+    <string name="checklast">Gửi thông tin</string>
+
+</resources>
